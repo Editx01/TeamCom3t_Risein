@@ -10,12 +10,12 @@ Provide a transparent and immutable record of transactions
 This platform enables users to experience the benefits of decentralized finance (DeFi) in everyday transactions.
 
 ## Features
-### Decentralized Listings: Secure and immutable item listings on the blockchain.
-### Cryptocurrency Payments: Transactions made using cryptocurrency for speed, security, and global access.
-### Smart Contracts: Payments are released only when both buyers and sellers meet agreed-upon conditions.
-### User-Friendly Interface: Simple and intuitive for listing, browsing, and purchasing items.
-### Global Accessibility: Available to anyone with internet access and a crypto wallet.
-### Transaction Transparency: Every transaction is publicly recorded on the blockchain.
+ Decentralized Listings: Secure and immutable item listings on the blockchain.
+ Cryptocurrency Payments: Transactions made using cryptocurrency for speed, security, and global access.
+ Smart Contracts: Payments are released only when both buyers and sellers meet agreed-upon conditions.
+ User-Friendly Interface: Simple and intuitive for listing, browsing, and purchasing items.
+ Global Accessibility: Available to anyone with internet access and a crypto wallet.
+ Transaction Transparency: Every transaction is publicly recorded on the blockchain.
 
 ## Deployment
 Local Deployment
