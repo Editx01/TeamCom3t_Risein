@@ -1,7 +1,7 @@
-### Blockchain Marketplace
+## Blockchain Marketplace
 A decentralized marketplace, similar to Craigslist, where users can list items for sale and purchase them directly using cryptocurrency. This marketplace runs entirely on the blockchain, ensuring secure and transparent transactions.
 
-### Vision
+## Vision
 The vision of this project is to create a decentralized and secure marketplace where users can buy and sell items directly using cryptocurrency. By leveraging blockchain technology, we aim to:
 
 Eliminate intermediaries
@@ -9,15 +9,15 @@ Reduce transaction costs
 Provide a transparent and immutable record of transactions
 This platform enables users to experience the benefits of decentralized finance (DeFi) in everyday transactions.
 
-### Features
-# Decentralized Listings: Secure and immutable item listings on the blockchain.
-# Cryptocurrency Payments: Transactions made using cryptocurrency for speed, security, and global access.
-# Smart Contracts: Payments are released only when both buyers and sellers meet agreed-upon conditions.
-# User-Friendly Interface: Simple and intuitive for listing, browsing, and purchasing items.
-# Global Accessibility: Available to anyone with internet access and a crypto wallet.
-# Transaction Transparency: Every transaction is publicly recorded on the blockchain.
+## Features
+### Decentralized Listings: Secure and immutable item listings on the blockchain.
+### Cryptocurrency Payments: Transactions made using cryptocurrency for speed, security, and global access.
+### Smart Contracts: Payments are released only when both buyers and sellers meet agreed-upon conditions.
+### User-Friendly Interface: Simple and intuitive for listing, browsing, and purchasing items.
+### Global Accessibility: Available to anyone with internet access and a crypto wallet.
+### Transaction Transparency: Every transaction is publicly recorded on the blockchain.
 
-### Deployment
+## Deployment
 Local Deployment
 Clone the repository:
 
@@ -44,7 +44,7 @@ Copy code
 npm start
 Access the app at http://localhost:3000.
 
-### Live Deployment
+## Live Deployment
 Mainnet Deployment: Marketplace on Ethereum Mainnet. (Add live URL here)
 Testnet Deployment: Marketplace on Rinkeby Testnet. (Add testnet URL here)
 Video Demo
