@@ -19,6 +19,7 @@ This platform enables users to experience the benefits of decentralized finance 
 
 ## Deployment
 Local Deployment
+Contract Address: 0x89E81BFAb9f6D87d33313c31C431D131A84818b5
 Clone the repository:
 
 bash
