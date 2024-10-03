@@ -44,6 +44,10 @@ bash
 Copy code
 npm start
 Access the app at http://localhost:3000.
+## Video link 
+https://drive.google.com/file/d/1QSPESgMVNc-YTyQ9Po-mGSEJc3epa5H7/view?usp=drive_link
+## ppt link
+https://drive.google.com/file/d/1jdq2ftrqQQ218nhDdvyvzBDZ1ngx7dyi/view?usp=drive_link
 
 ## Live Deployment
 Mainnet Deployment: Marketplace on Ethereum Mainnet. (Add live URL here)
